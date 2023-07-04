@@ -1,4 +1,4 @@
-# day 9
+# Day 9
 
 Health & Sports
 

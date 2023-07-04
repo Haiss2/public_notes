@@ -1,4 +1,4 @@
-# day 13
+# Day 13
 
 Food & Drinks
 
